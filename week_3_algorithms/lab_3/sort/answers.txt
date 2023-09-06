@@ -1,0 +1,17 @@
+timesort1 uses: Bubble Sort
+
+How do you know?: Sorted text takes less time for bubble sort, Raw-Data: Time taken to run random5000.txt: 0m0.107s, Time taken to run random10000.txt: 0m0.278,
+Time taken to run random50000.txt: 0m8.139s, reversed5000.txt: reversed10000.txt: 0m0.076s, 0m0.257s, reversed50000.txt0m6.101s
+sorted5000.txt: 0m0.042s, sorted10000.txt: 0m0.063s, sorted50000.txt: 0m3.912s
+
+sort2 uses: Merge Sort
+
+How do you know?: Fastest among all three, Raw-Data: Time taken to run random5000.txt: 0m0.021s, Time taken to run random10000.txt: 0m0.059s,
+Time taken to run random50000.txt: 0m2.377s, reversed5000.txt: 0m0.043s, reversed10000.txt: 0m0.074s, reversed50000.txt: 0m2.892s
+sorted5000.txt: 0m0.029s, sorted10000.txt: 0m0.042s, sorted50000.txt: 0m1.514s
+
+sort3 uses: Selection Sort
+
+How do you know?: Sort 1 is Bubble sort, Sort 2 is merge sort, so sort three has to be Selection sort, Raw-Data: Time taken to run random5000.txt: 0m0.044s, Time taken to run random10000.txt: 0m0.163s,
+Time taken to run random50000.txt: 0m4.685s, reversed5000.txt: 0m0.045s, reversed10000.txt: 0m0.144s, reversed50000.txt: 0m5.014s
+sorted5000.txt: 0m0.045s, sorted10000.txt: 0m0.166s, sorted50000.txt: 0m5.213s
